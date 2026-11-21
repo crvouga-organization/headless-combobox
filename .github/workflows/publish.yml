@@ -22,7 +22,7 @@ jobs:
       context: example/svelte
       image_owner: crvouga
       image_prefix: chrisvouga
-      infra_github_repo: crvouga/personal
+      infra_github_repo: crvouga-organization/personal
 
   headless_combobox_docs:
     uses: crvouga-organization/personal/.github/workflows/publish.yml@main
@@ -35,5 +35,5 @@ jobs:
       context: .
       image_owner: crvouga
       image_prefix: chrisvouga
-      infra_github_repo: crvouga/personal
+      infra_github_repo: crvouga-organization/personal
 
