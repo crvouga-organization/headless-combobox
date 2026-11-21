@@ -17,14 +17,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/crvouga/headless-combobox.git"
+    "url": "git+https://github.com/crvouga-organization/headless-combobox.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/crvouga/headless-combobox/issues"
+    "url": "https://github.com/crvouga-organization/headless-combobox/issues"
   },
-  "homepage": "https://github.com/crvouga/headless-combobox#readme",
+  "homepage": "https://github.com/crvouga-organization/headless-combobox#readme",
   "devDependencies": {
     "typedoc": "^0.24.4",
     "typescript": "^5.0.4",

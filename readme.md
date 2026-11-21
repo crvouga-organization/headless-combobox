@@ -1,6 +1,6 @@
 # headless-combobox
 
-![demo](https://github.com/crvouga/headless-combobox/raw/main/demo.gif)
+![demo](https://github.com/crvouga-organization/headless-combobox/raw/main/demo.gif)
 
 ## ⚠️ WORK IN PROGRESS
 
@@ -51,7 +51,7 @@ Let me know if you find any issues.
 
 - [bundlephobia](https://bundlephobia.com/package/headless-combobox)
 - [API Reference](https://headlesscombobox.chrisvouga.dev/)
-- [Github](https://github.com/crvouga/headless-combobox)
+- [Github](https://github.com/crvouga-organization/headless-combobox)
 - [NPM](https://www.npmjs.com/package/headless-combobox)
 
 ## Installation
